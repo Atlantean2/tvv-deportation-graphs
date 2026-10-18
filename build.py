@@ -41,4 +41,4 @@ for q in sorted(k for k in secs if k!="TVV"):
 w("TVV","TVV derived charts",'<h2 class="desk">TVV derived charts (built from primary government data)</h2>'+"\n".join(secs["TVV"]))
 w("sources","Sources",f'<h2 class="desk">Sources ({len(allsrc)} links)</h2><ul class="src">'+"".join(f'<li><a href="{E(u)}">{E(u)}</a></li>' for u in allsrc)+"</ul>")
 tabs=[t for t in tabs if t[0]!="material"]+[t for t in tabs if t[0]=="material"];tabs=tabs[:-2]+[tabs[-1],tabs[-2]]
-index(T,tabs,"Sections");print({k:len(v) for k,v in secs.items()},len(allsrc))
+index(T,tabs,"Sections",cur="deport");print({k:len(v) for k,v in secs.items()},len(allsrc))
