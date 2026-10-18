@@ -1,0 +1,950 @@
+Fiscal Year,Month,Repatriation Type,Arrest Location,Quantity
+2010,01 October,Administrative Returns,Border,5830
+2010,01 October,Enforcement Returns,Border,34680
+2010,01 October,Enforcement Returns,Interior,4870
+2010,01 October,Removals,Border,20160
+2010,01 October,Removals,Interior,13670
+2010,02 November,Administrative Returns,Border,5240
+2010,02 November,Enforcement Returns,Border,27530
+2010,02 November,Enforcement Returns,Interior,4190
+2010,02 November,Removals,Border,19640
+2010,02 November,Removals,Interior,13090
+2010,03 December,Administrative Returns,Border,4950
+2010,03 December,Enforcement Returns,Border,21940
+2010,03 December,Enforcement Returns,Interior,4380
+2010,03 December,Removals,Border,19020
+2010,03 December,Removals,Interior,13260
+2010,04 January,Administrative Returns,Border,5130
+2010,04 January,Enforcement Returns,Border,27290
+2010,04 January,Enforcement Returns,Interior,4850
+2010,04 January,Removals,Border,20170
+2010,04 January,Removals,Interior,11760
+2010,05 February,Administrative Returns,Border,5000
+2010,05 February,Enforcement Returns,Border,33990
+2010,05 February,Enforcement Returns,Interior,3930
+2010,05 February,Removals,Border,20300
+2010,05 February,Removals,Interior,12530
+2010,06 March,Administrative Returns,Border,4680
+2010,06 March,Enforcement Returns,Border,49710
+2010,06 March,Enforcement Returns,Interior,5730
+2010,06 March,Removals,Border,26670
+2010,06 March,Removals,Interior,15860
+2010,07 April,Administrative Returns,Border,5000
+2010,07 April,Enforcement Returns,Border,44620
+2010,07 April,Enforcement Returns,Interior,5400
+2010,07 April,Removals,Border,27300
+2010,07 April,Removals,Interior,13700
+2010,08 May,Administrative Returns,Border,4990
+2010,08 May,Enforcement Returns,Border,37240
+2010,08 May,Enforcement Returns,Interior,4130
+2010,08 May,Removals,Border,20970
+2010,08 May,Removals,Interior,13560
+2010,09 June,Administrative Returns,Border,5000
+2010,09 June,Enforcement Returns,Border,31760
+2010,09 June,Enforcement Returns,Interior,4840
+2010,09 June,Removals,Border,20800
+2010,09 June,Removals,Interior,14540
+2010,10 July,Administrative Returns,Border,5050
+2010,10 July,Enforcement Returns,Border,26900
+2010,10 July,Enforcement Returns,Interior,4660
+2010,10 July,Removals,Border,19050
+2010,10 July,Removals,Interior,13630
+2010,11 August,Administrative Returns,Border,5490
+2010,11 August,Enforcement Returns,Border,22560
+2010,11 August,Enforcement Returns,Interior,6540
+2010,11 August,Removals,Border,24740
+2010,11 August,Removals,Interior,16370
+2010,12 September,Administrative Returns,Border,5540
+2010,12 September,Enforcement Returns,Border,19360
+2010,12 September,Enforcement Returns,Interior,6070
+2010,12 September,Removals,Border,23620
+2010,12 September,Removals,Interior,17700
+2011,01 October,Administrative Returns,Border,5870
+2011,01 October,Enforcement Returns,Border,18290
+2011,01 October,Enforcement Returns,Interior,3990
+2011,01 October,Removals,Border,15910
+2011,01 October,Removals,Interior,11950
+2011,02 November,Administrative Returns,Border,6050
+2011,02 November,Enforcement Returns,Border,15720
+2011,02 November,Enforcement Returns,Interior,3810
+2011,02 November,Removals,Border,14850
+2011,02 November,Removals,Interior,12990
+2011,03 December,Administrative Returns,Border,5720
+2011,03 December,Enforcement Returns,Border,15040
+2011,03 December,Enforcement Returns,Interior,3850
+2011,03 December,Removals,Border,14360
+2011,03 December,Removals,Interior,13580
+2011,04 January,Administrative Returns,Border,5070
+2011,04 January,Enforcement Returns,Border,17690
+2011,04 January,Enforcement Returns,Interior,3910
+2011,04 January,Removals,Border,15900
+2011,04 January,Removals,Interior,13730
+2011,05 February,Administrative Returns,Border,4980
+2011,05 February,Enforcement Returns,Border,18860
+2011,05 February,Enforcement Returns,Interior,4180
+2011,05 February,Removals,Border,16160
+2011,05 February,Removals,Interior,13430
+2011,06 March,Administrative Returns,Border,5490
+2011,06 March,Enforcement Returns,Border,28190
+2011,06 March,Enforcement Returns,Interior,5180
+2011,06 March,Removals,Border,20470
+2011,06 March,Removals,Interior,16460
+2011,07 April,Administrative Returns,Border,5900
+2011,07 April,Enforcement Returns,Border,24120
+2011,07 April,Enforcement Returns,Interior,4330
+2011,07 April,Removals,Border,19280
+2011,07 April,Removals,Interior,14510
+2011,08 May,Administrative Returns,Border,4600
+2011,08 May,Enforcement Returns,Border,16450
+2011,08 May,Enforcement Returns,Interior,4330
+2011,08 May,Removals,Border,22540
+2011,08 May,Removals,Interior,14780
+2011,09 June,Administrative Returns,Border,4830
+2011,09 June,Enforcement Returns,Border,14530
+2011,09 June,Enforcement Returns,Interior,4090
+2011,09 June,Removals,Border,19960
+2011,09 June,Removals,Interior,15220
+2011,10 July,Administrative Returns,Border,4500
+2011,10 July,Enforcement Returns,Border,14450
+2011,10 July,Enforcement Returns,Interior,3910
+2011,10 July,Removals,Border,17160
+2011,10 July,Removals,Interior,14380
+2011,11 August,Administrative Returns,Border,4670
+2011,11 August,Enforcement Returns,Border,14380
+2011,11 August,Enforcement Returns,Interior,4550
+2011,11 August,Removals,Border,19660
+2011,11 August,Removals,Interior,15400
+2011,12 September,Administrative Returns,Border,3230
+2011,12 September,Enforcement Returns,Border,13400
+2011,12 September,Enforcement Returns,Interior,4440
+2011,12 September,Removals,Border,20780
+2011,12 September,Removals,Interior,16790
+2012,01 October,Administrative Returns,Border,3320
+2012,01 October,Enforcement Returns,Border,12040
+2012,01 October,Enforcement Returns,Interior,2960
+2012,01 October,Removals,Border,15600
+2012,01 October,Removals,Interior,12880
+2012,02 November,Administrative Returns,Border,4060
+2012,02 November,Enforcement Returns,Border,11510
+2012,02 November,Enforcement Returns,Interior,3130
+2012,02 November,Removals,Border,16120
+2012,02 November,Removals,Interior,14170
+2012,03 December,Administrative Returns,Border,4220
+2012,03 December,Enforcement Returns,Border,10380
+2012,03 December,Enforcement Returns,Interior,3110
+2012,03 December,Removals,Border,15450
+2012,03 December,Removals,Interior,13980
+2012,04 January,Administrative Returns,Border,3760
+2012,04 January,Enforcement Returns,Border,10830
+2012,04 January,Enforcement Returns,Interior,3190
+2012,04 January,Removals,Border,17070
+2012,04 January,Removals,Interior,13750
+2012,05 February,Administrative Returns,Border,4470
+2012,05 February,Enforcement Returns,Border,11290
+2012,05 February,Enforcement Returns,Interior,2720
+2012,05 February,Removals,Border,20900
+2012,05 February,Removals,Interior,13030
+2012,06 March,Administrative Returns,Border,4420
+2012,06 March,Enforcement Returns,Border,17480
+2012,06 March,Enforcement Returns,Interior,3060
+2012,06 March,Removals,Border,23770
+2012,06 March,Removals,Interior,13550
+2012,07 April,Administrative Returns,Border,3960
+2012,07 April,Enforcement Returns,Border,14950
+2012,07 April,Enforcement Returns,Interior,2960
+2012,07 April,Removals,Border,26180
+2012,07 April,Removals,Interior,14400
+2012,08 May,Administrative Returns,Border,4440
+2012,08 May,Enforcement Returns,Border,13910
+2012,08 May,Enforcement Returns,Interior,3220
+2012,08 May,Removals,Border,25780
+2012,08 May,Removals,Interior,14430
+2012,09 June,Administrative Returns,Border,3820
+2012,09 June,Enforcement Returns,Border,11740
+2012,09 June,Enforcement Returns,Interior,3170
+2012,09 June,Removals,Border,25980
+2012,09 June,Removals,Interior,13250
+2012,10 July,Administrative Returns,Border,4010
+2012,10 July,Enforcement Returns,Border,11150
+2012,10 July,Enforcement Returns,Interior,2900
+2012,10 July,Removals,Border,20830
+2012,10 July,Removals,Interior,13150
+2012,11 August,Administrative Returns,Border,3500
+2012,11 August,Enforcement Returns,Border,11530
+2012,11 August,Enforcement Returns,Interior,2940
+2012,11 August,Removals,Border,21750
+2012,11 August,Removals,Interior,14290
+2012,12 September,Administrative Returns,Border,3400
+2012,12 September,Enforcement Returns,Border,10530
+2012,12 September,Enforcement Returns,Interior,2840
+2012,12 September,Removals,Border,22300
+2012,12 September,Removals,Interior,14000
+2013,01 October,Administrative Returns,Border,4340
+2013,01 October,Enforcement Returns,Border,9720
+2013,01 October,Enforcement Returns,Interior,2330
+2013,01 October,Removals,Border,20150
+2013,01 October,Removals,Interior,10020
+2013,02 November,Administrative Returns,Border,3950
+2013,02 November,Enforcement Returns,Border,9070
+2013,02 November,Enforcement Returns,Interior,2300
+2013,02 November,Removals,Border,20950
+2013,02 November,Removals,Interior,10060
+2013,03 December,Administrative Returns,Border,3650
+2013,03 December,Enforcement Returns,Border,8880
+2013,03 December,Enforcement Returns,Interior,2100
+2013,03 December,Removals,Border,17920
+2013,03 December,Removals,Interior,9050
+2013,04 January,Administrative Returns,Border,3670
+2013,04 January,Enforcement Returns,Border,9300
+2013,04 January,Enforcement Returns,Interior,2260
+2013,04 January,Removals,Border,23190
+2013,04 January,Removals,Interior,10760
+2013,05 February,Administrative Returns,Border,4120
+2013,05 February,Enforcement Returns,Border,9010
+2013,05 February,Enforcement Returns,Interior,2090
+2013,05 February,Removals,Border,25320
+2013,05 February,Removals,Interior,8650
+2013,06 March,Administrative Returns,Border,4620
+2013,06 March,Enforcement Returns,Border,11370
+2013,06 March,Enforcement Returns,Interior,1830
+2013,06 March,Removals,Border,28780
+2013,06 March,Removals,Interior,8320
+2013,07 April,Administrative Returns,Border,3420
+2013,07 April,Enforcement Returns,Border,10380
+2013,07 April,Enforcement Returns,Interior,1710
+2013,07 April,Removals,Border,33090
+2013,07 April,Removals,Interior,8900
+2013,08 May,Administrative Returns,Border,3280
+2013,08 May,Enforcement Returns,Border,9170
+2013,08 May,Enforcement Returns,Interior,1850
+2013,08 May,Removals,Border,35370
+2013,08 May,Removals,Interior,9190
+2013,09 June,Administrative Returns,Border,3000
+2013,09 June,Enforcement Returns,Border,8560
+2013,09 June,Enforcement Returns,Interior,1600
+2013,09 June,Removals,Border,32940
+2013,09 June,Removals,Interior,8700
+2013,10 July,Administrative Returns,Border,3380
+2013,10 July,Enforcement Returns,Border,8780
+2013,10 July,Enforcement Returns,Interior,1580
+2013,10 July,Removals,Border,27710
+2013,10 July,Removals,Interior,9020
+2013,11 August,Administrative Returns,Border,3530
+2013,11 August,Enforcement Returns,Border,9130
+2013,11 August,Enforcement Returns,Interior,1370
+2013,11 August,Removals,Border,26920
+2013,11 August,Removals,Interior,8480
+2013,12 September,Administrative Returns,Border,3740
+2013,12 September,Enforcement Returns,Border,8110
+2013,12 September,Enforcement Returns,Interior,1760
+2013,12 September,Removals,Border,29940
+2013,12 September,Removals,Interior,9640
+2014,01 October,Administrative Returns,Border,3510
+2014,01 October,Enforcement Returns,Border,8310
+2014,01 October,Enforcement Returns,Interior,1580
+2014,01 October,Removals,Border,28130
+2014,01 October,Removals,Interior,9250
+2014,02 November,Administrative Returns,Border,2930
+2014,02 November,Enforcement Returns,Border,7790
+2014,02 November,Enforcement Returns,Interior,1360
+2014,02 November,Removals,Border,24200
+2014,02 November,Removals,Interior,7740
+2014,03 December,Administrative Returns,Border,3020
+2014,03 December,Enforcement Returns,Border,7570
+2014,03 December,Enforcement Returns,Interior,1290
+2014,03 December,Removals,Border,21440
+2014,03 December,Removals,Interior,7920
+2014,04 January,Administrative Returns,Border,3550
+2014,04 January,Enforcement Returns,Border,7760
+2014,04 January,Enforcement Returns,Interior,1000
+2014,04 January,Removals,Border,22230
+2014,04 January,Removals,Interior,7840
+2014,05 February,Administrative Returns,Border,3910
+2014,05 February,Enforcement Returns,Border,7240
+2014,05 February,Enforcement Returns,Interior,900
+2014,05 February,Removals,Border,25520
+2014,05 February,Removals,Interior,8040
+2014,06 March,Administrative Returns,Border,4190
+2014,06 March,Enforcement Returns,Border,9890
+2014,06 March,Enforcement Returns,Interior,890
+2014,06 March,Removals,Border,31310
+2014,06 March,Removals,Interior,8160
+2014,07 April,Administrative Returns,Border,6750
+2014,07 April,Enforcement Returns,Border,9040
+2014,07 April,Enforcement Returns,Interior,870
+2014,07 April,Removals,Border,32130
+2014,07 April,Removals,Interior,7510
+2014,08 May,Administrative Returns,Border,4320
+2014,08 May,Enforcement Returns,Border,11050
+2014,08 May,Enforcement Returns,Interior,840
+2014,08 May,Removals,Border,30120
+2014,08 May,Removals,Interior,7360
+2014,09 June,Administrative Returns,Border,3520
+2014,09 June,Enforcement Returns,Border,12180
+2014,09 June,Enforcement Returns,Interior,750
+2014,09 June,Removals,Border,23750
+2014,09 June,Removals,Interior,6520
+2014,10 July,Administrative Returns,Border,3560
+2014,10 July,Enforcement Returns,Border,9730
+2014,10 July,Enforcement Returns,Interior,890
+2014,10 July,Removals,Border,27510
+2014,10 July,Removals,Interior,7420
+2014,11 August,Administrative Returns,Border,2850
+2014,11 August,Enforcement Returns,Border,8690
+2014,11 August,Enforcement Returns,Interior,660
+2014,11 August,Removals,Border,25280
+2014,11 August,Removals,Interior,6540
+2014,12 September,Administrative Returns,Border,3570
+2014,12 September,Enforcement Returns,Border,7060
+2014,12 September,Enforcement Returns,Interior,560
+2014,12 September,Removals,Border,22450
+2014,12 September,Removals,Interior,6360
+2015,01 October,Administrative Returns,Border,4070
+2015,01 October,Enforcement Returns,Border,7690
+2015,01 October,Enforcement Returns,Interior,780
+2015,01 October,Removals,Border,26340
+2015,01 October,Removals,Interior,7180
+2015,02 November,Administrative Returns,Border,3180
+2015,02 November,Enforcement Returns,Border,6960
+2015,02 November,Enforcement Returns,Interior,540
+2015,02 November,Removals,Border,20660
+2015,02 November,Removals,Interior,5640
+2015,03 December,Administrative Returns,Border,3840
+2015,03 December,Enforcement Returns,Border,6820
+2015,03 December,Enforcement Returns,Interior,530
+2015,03 December,Removals,Border,19730
+2015,03 December,Removals,Interior,5610
+2015,04 January,Administrative Returns,Border,3870
+2015,04 January,Enforcement Returns,Border,6310
+2015,04 January,Enforcement Returns,Interior,360
+2015,04 January,Removals,Border,19740
+2015,04 January,Removals,Interior,5460
+2015,05 February,Administrative Returns,Border,3870
+2015,05 February,Enforcement Returns,Border,5690
+2015,05 February,Enforcement Returns,Interior,330
+2015,05 February,Removals,Border,19870
+2015,05 February,Removals,Interior,4680
+2015,06 March,Administrative Returns,Border,3850
+2015,06 March,Enforcement Returns,Border,6810
+2015,06 March,Enforcement Returns,Interior,390
+2015,06 March,Removals,Border,23400
+2015,06 March,Removals,Interior,5180
+2015,07 April,Administrative Returns,Border,3700
+2015,07 April,Enforcement Returns,Border,6400
+2015,07 April,Enforcement Returns,Interior,440
+2015,07 April,Removals,Border,23520
+2015,07 April,Removals,Interior,5260
+2015,08 May,Administrative Returns,Border,3730
+2015,08 May,Enforcement Returns,Border,6720
+2015,08 May,Enforcement Returns,Interior,420
+2015,08 May,Removals,Border,23050
+2015,08 May,Removals,Interior,5160
+2015,09 June,Administrative Returns,Border,2900
+2015,09 June,Enforcement Returns,Border,6510
+2015,09 June,Enforcement Returns,Interior,370
+2015,09 June,Removals,Border,21720
+2015,09 June,Removals,Interior,5220
+2015,10 July,Administrative Returns,Border,3130
+2015,10 July,Enforcement Returns,Border,7170
+2015,10 July,Enforcement Returns,Interior,390
+2015,10 July,Removals,Border,21560
+2015,10 July,Removals,Interior,5400
+2015,11 August,Administrative Returns,Border,2980
+2015,11 August,Enforcement Returns,Border,7420
+2015,11 August,Enforcement Returns,Interior,330
+2015,11 August,Removals,Border,20130
+2015,11 August,Removals,Interior,4520
+2015,12 September,Administrative Returns,Border,4140
+2015,12 September,Enforcement Returns,Border,6660
+2015,12 September,Enforcement Returns,Interior,310
+2015,12 September,Removals,Border,19650
+2015,12 September,Removals,Interior,4990
+2016,01 October,Administrative Returns,Border,3690
+2016,01 October,Enforcement Returns,Border,5700
+2016,01 October,Enforcement Returns,Interior,470
+2016,01 October,Removals,Border,23390
+2016,01 October,Removals,Interior,6240
+2016,02 November,Administrative Returns,Border,2440
+2016,02 November,Enforcement Returns,Border,5570
+2016,02 November,Enforcement Returns,Interior,410
+2016,02 November,Removals,Border,20760
+2016,02 November,Removals,Interior,5090
+2016,03 December,Administrative Returns,Border,2900
+2016,03 December,Enforcement Returns,Border,6220
+2016,03 December,Enforcement Returns,Interior,420
+2016,03 December,Removals,Border,21150
+2016,03 December,Removals,Interior,5300
+2016,04 January,Administrative Returns,Border,3050
+2016,04 January,Enforcement Returns,Border,6150
+2016,04 January,Enforcement Returns,Interior,290
+2016,04 January,Removals,Border,19070
+2016,04 January,Removals,Interior,4600
+2016,05 February,Administrative Returns,Border,2860
+2016,05 February,Enforcement Returns,Border,5600
+2016,05 February,Enforcement Returns,Interior,350
+2016,05 February,Removals,Border,20530
+2016,05 February,Removals,Interior,4390
+2016,06 March,Administrative Returns,Border,2580
+2016,06 March,Enforcement Returns,Border,6050
+2016,06 March,Enforcement Returns,Interior,390
+2016,06 March,Removals,Border,24270
+2016,06 March,Removals,Interior,5510
+2016,07 April,Administrative Returns,Border,2420
+2016,07 April,Enforcement Returns,Border,5970
+2016,07 April,Enforcement Returns,Interior,370
+2016,07 April,Removals,Border,26350
+2016,07 April,Removals,Interior,5130
+2016,08 May,Administrative Returns,Border,2410
+2016,08 May,Enforcement Returns,Border,5890
+2016,08 May,Enforcement Returns,Interior,410
+2016,08 May,Removals,Border,26800
+2016,08 May,Removals,Interior,4990
+2016,09 June,Administrative Returns,Border,2460
+2016,09 June,Enforcement Returns,Border,6020
+2016,09 June,Enforcement Returns,Interior,360
+2016,09 June,Removals,Border,24200
+2016,09 June,Removals,Interior,5070
+2016,10 July,Administrative Returns,Border,2030
+2016,10 July,Enforcement Returns,Border,5860
+2016,10 July,Enforcement Returns,Interior,380
+2016,10 July,Removals,Border,21030
+2016,10 July,Removals,Interior,4640
+2016,11 August,Administrative Returns,Border,2510
+2016,11 August,Enforcement Returns,Border,6310
+2016,11 August,Enforcement Returns,Interior,450
+2016,11 August,Removals,Border,22250
+2016,11 August,Removals,Interior,5140
+2016,12 September,Administrative Returns,Border,990
+2016,12 September,Enforcement Returns,Border,6070
+2016,12 September,Enforcement Returns,Interior,390
+2016,12 September,Removals,Border,21110
+2016,12 September,Removals,Interior,4540
+2017,01 October,Administrative Returns,Border,1480
+2017,01 October,Enforcement Returns,Border,7690
+2017,01 October,Enforcement Returns,Interior,510
+2017,01 October,Removals,Border,26780
+2017,01 October,Removals,Interior,5270
+2017,02 November,Administrative Returns,Border,1290
+2017,02 November,Enforcement Returns,Border,6550
+2017,02 November,Enforcement Returns,Interior,540
+2017,02 November,Removals,Border,24890
+2017,02 November,Removals,Interior,5770
+2017,03 December,Administrative Returns,Border,1130
+2017,03 December,Enforcement Returns,Border,6290
+2017,03 December,Enforcement Returns,Interior,500
+2017,03 December,Removals,Border,21720
+2017,03 December,Removals,Interior,4710
+2017,04 January,Administrative Returns,Border,1310
+2017,04 January,Enforcement Returns,Border,6800
+2017,04 January,Enforcement Returns,Interior,460
+2017,04 January,Removals,Border,19680
+2017,04 January,Removals,Interior,4920
+2017,05 February,Administrative Returns,Border,1170
+2017,05 February,Enforcement Returns,Border,5230
+2017,05 February,Enforcement Returns,Interior,580
+2017,05 February,Removals,Border,17120
+2017,05 February,Removals,Interior,5290
+2017,06 March,Administrative Returns,Border,1490
+2017,06 March,Enforcement Returns,Border,5520
+2017,06 March,Enforcement Returns,Interior,790
+2017,06 March,Removals,Border,16630
+2017,06 March,Removals,Interior,7090
+2017,07 April,Administrative Returns,Border,1330
+2017,07 April,Enforcement Returns,Border,5740
+2017,07 April,Enforcement Returns,Interior,720
+2017,07 April,Removals,Border,12970
+2017,07 April,Removals,Interior,6330
+2017,08 May,Administrative Returns,Border,1380
+2017,08 May,Enforcement Returns,Border,6030
+2017,08 May,Enforcement Returns,Interior,840
+2017,08 May,Removals,Border,14240
+2017,08 May,Removals,Interior,7000
+2017,09 June,Administrative Returns,Border,1300
+2017,09 June,Enforcement Returns,Border,6460
+2017,09 June,Enforcement Returns,Interior,900
+2017,09 June,Removals,Border,14570
+2017,09 June,Removals,Interior,6850
+2017,10 July,Administrative Returns,Border,1240
+2017,10 July,Enforcement Returns,Border,6780
+2017,10 July,Enforcement Returns,Interior,890
+2017,10 July,Removals,Border,14060
+2017,10 July,Removals,Interior,5980
+2017,11 August,Administrative Returns,Border,890
+2017,11 August,Enforcement Returns,Border,7460
+2017,11 August,Enforcement Returns,Interior,1050
+2017,11 August,Removals,Border,15480
+2017,11 August,Removals,Interior,7480
+2017,12 September,Administrative Returns,Border,1050
+2017,12 September,Enforcement Returns,Border,6410
+2017,12 September,Enforcement Returns,Interior,890
+2017,12 September,Removals,Border,15600
+2017,12 September,Removals,Interior,6260
+2018,01 October,Administrative Returns,Border,5510
+2018,01 October,Enforcement Returns,Border,6920
+2018,01 October,Enforcement Returns,Interior,1060
+2018,01 October,Removals,Border,18570
+2018,01 October,Removals,Interior,7120
+2018,02 November,Administrative Returns,Border,5030
+2018,02 November,Enforcement Returns,Border,6360
+2018,02 November,Enforcement Returns,Interior,1070
+2018,02 November,Removals,Border,19070
+2018,02 November,Removals,Interior,6970
+2018,03 December,Administrative Returns,Border,5080
+2018,03 December,Enforcement Returns,Border,6530
+2018,03 December,Enforcement Returns,Interior,930
+2018,03 December,Removals,Border,17590
+2018,03 December,Removals,Interior,6850
+2018,04 January,Administrative Returns,Border,4670
+2018,04 January,Enforcement Returns,Border,6880
+2018,04 January,Enforcement Returns,Interior,980
+2018,04 January,Removals,Border,18430
+2018,04 January,Removals,Interior,6380
+2018,05 February,Administrative Returns,Border,5570
+2018,05 February,Enforcement Returns,Border,6830
+2018,05 February,Enforcement Returns,Interior,990
+2018,05 February,Removals,Border,19790
+2018,05 February,Removals,Interior,6490
+2018,06 March,Administrative Returns,Border,5940
+2018,06 March,Enforcement Returns,Border,7640
+2018,06 March,Enforcement Returns,Interior,1160
+2018,06 March,Removals,Border,24810
+2018,06 March,Removals,Interior,7280
+2018,07 April,Administrative Returns,Border,5770
+2018,07 April,Enforcement Returns,Border,6520
+2018,07 April,Enforcement Returns,Interior,1050
+2018,07 April,Removals,Border,24640
+2018,07 April,Removals,Interior,7110
+2018,08 May,Administrative Returns,Border,5450
+2018,08 May,Enforcement Returns,Border,6520
+2018,08 May,Enforcement Returns,Interior,1320
+2018,08 May,Removals,Border,23500
+2018,08 May,Removals,Interior,7790
+2018,09 June,Administrative Returns,Border,5840
+2018,09 June,Enforcement Returns,Border,6430
+2018,09 June,Enforcement Returns,Interior,1110
+2018,09 June,Removals,Border,19630
+2018,09 June,Removals,Interior,6670
+2018,10 July,Administrative Returns,Border,8630
+2018,10 July,Enforcement Returns,Border,4070
+2018,10 July,Enforcement Returns,Interior,1030
+2018,10 July,Removals,Border,18840
+2018,10 July,Removals,Interior,6350
+2018,11 August,Administrative Returns,Border,7930
+2018,11 August,Enforcement Returns,Border,4870
+2018,11 August,Enforcement Returns,Interior,1210
+2018,11 August,Removals,Border,21100
+2018,11 August,Removals,Interior,7390
+2018,12 September,Administrative Returns,Border,7350
+2018,12 September,Enforcement Returns,Border,4740
+2018,12 September,Enforcement Returns,Interior,1020
+2018,12 September,Removals,Border,18800
+2018,12 September,Removals,Interior,6060
+2019,01 October,Administrative Returns,Border,7860
+2019,01 October,Enforcement Returns,Border,5200
+2019,01 October,Enforcement Returns,Interior,1290
+2019,01 October,Removals,Border,23300
+2019,01 October,Removals,Interior,6910
+2019,02 November,Administrative Returns,Border,7080
+2019,02 November,Enforcement Returns,Border,4620
+2019,02 November,Enforcement Returns,Interior,1150
+2019,02 November,Removals,Border,20800
+2019,02 November,Removals,Interior,6360
+2019,03 December,Administrative Returns,Border,7290
+2019,03 December,Enforcement Returns,Border,4640
+2019,03 December,Enforcement Returns,Interior,1200
+2019,03 December,Removals,Border,18330
+2019,03 December,Removals,Interior,6170
+2019,04 January,Administrative Returns,Border,7940
+2019,04 January,Enforcement Returns,Border,4540
+2019,04 January,Enforcement Returns,Interior,1070
+2019,04 January,Removals,Border,19150
+2019,04 January,Removals,Interior,5980
+2019,05 February,Administrative Returns,Border,7010
+2019,05 February,Enforcement Returns,Border,4660
+2019,05 February,Enforcement Returns,Interior,1000
+2019,05 February,Removals,Border,21210
+2019,05 February,Removals,Interior,5500
+2019,06 March,Administrative Returns,Border,7370
+2019,06 March,Enforcement Returns,Border,5570
+2019,06 March,Enforcement Returns,Interior,1150
+2019,06 March,Removals,Border,26410
+2019,06 March,Removals,Interior,6460
+2019,07 April,Administrative Returns,Border,7610
+2019,07 April,Enforcement Returns,Border,5930
+2019,07 April,Enforcement Returns,Interior,1100
+2019,07 April,Removals,Border,27020
+2019,07 April,Removals,Interior,6230
+2019,08 May,Administrative Returns,Border,7500
+2019,08 May,Enforcement Returns,Border,7290
+2019,08 May,Enforcement Returns,Interior,1120
+2019,08 May,Removals,Border,27650
+2019,08 May,Removals,Interior,6130
+2019,09 June,Administrative Returns,Border,7380
+2019,09 June,Enforcement Returns,Border,7410
+2019,09 June,Enforcement Returns,Interior,970
+2019,09 June,Removals,Border,23480
+2019,09 June,Removals,Interior,5550
+2019,10 July,Administrative Returns,Border,7320
+2019,10 July,Enforcement Returns,Border,6230
+2019,10 July,Enforcement Returns,Interior,980
+2019,10 July,Removals,Border,22470
+2019,10 July,Removals,Interior,6580
+2019,11 August,Administrative Returns,Border,7880
+2019,11 August,Enforcement Returns,Border,6790
+2019,11 August,Enforcement Returns,Interior,990
+2019,11 August,Removals,Border,21490
+2019,11 August,Removals,Interior,6050
+2019,12 September,Administrative Returns,Border,7490
+2019,12 September,Enforcement Returns,Border,5750
+2019,12 September,Enforcement Returns,Interior,750
+2019,12 September,Removals,Border,22750
+2019,12 September,Removals,Interior,5250
+2020,01 October,Administrative Returns,Border,8050
+2020,01 October,Enforcement Returns,Border,6020
+2020,01 October,Enforcement Returns,Interior,1120
+2020,01 October,Removals,Border,29940
+2020,01 October,Removals,Interior,6240
+2020,02 November,Administrative Returns,Border,7540
+2020,02 November,Enforcement Returns,Border,5880
+2020,02 November,Enforcement Returns,Interior,1010
+2020,02 November,Removals,Border,26300
+2020,02 November,Removals,Interior,5390
+2020,03 December,Administrative Returns,Border,7730
+2020,03 December,Enforcement Returns,Border,6300
+2020,03 December,Enforcement Returns,Interior,1060
+2020,03 December,Removals,Border,24380
+2020,03 December,Removals,Interior,5460
+2020,04 January,Administrative Returns,Border,8300
+2020,04 January,Enforcement Returns,Border,6210
+2020,04 January,Enforcement Returns,Interior,1090
+2020,04 January,Removals,Border,25790
+2020,04 January,Removals,Interior,5670
+2020,05 February,Administrative Returns,Border,10800
+2020,05 February,Enforcement Returns,Border,5730
+2020,05 February,Enforcement Returns,Interior,1080
+2020,05 February,Removals,Border,25860
+2020,05 February,Removals,Interior,5250
+2020,06 March,Administrative Returns,Border,11500
+2020,06 March,Enforcement Returns,Border,5670
+2020,06 March,Enforcement Returns,Interior,990
+2020,06 March,Removals,Border,20130
+2020,06 March,Removals,Interior,5100
+2020,06 March,Title 42 Expulsions,Border,7170
+2020,07 April,Administrative Returns,Border,10730
+2020,07 April,Enforcement Returns,Border,640
+2020,07 April,Enforcement Returns,Interior,600
+2020,07 April,Removals,Border,5950
+2020,07 April,Removals,Interior,3490
+2020,07 April,Title 42 Expulsions,Border,15540
+2020,08 May,Administrative Returns,Border,12560
+2020,08 May,Enforcement Returns,Border,950
+2020,08 May,Enforcement Returns,Interior,640
+2020,08 May,Removals,Border,4130
+2020,08 May,Removals,Interior,3310
+2020,08 May,Title 42 Expulsions,Border,20960
+2020,09 June,Administrative Returns,Border,12640
+2020,09 June,Enforcement Returns,Border,1190
+2020,09 June,Enforcement Returns,Interior,550
+2020,09 June,Removals,Border,4170
+2020,09 June,Removals,Interior,3050
+2020,09 June,Title 42 Expulsions,Border,29940
+2020,10 July,Administrative Returns,Border,7030
+2020,10 July,Enforcement Returns,Border,1620
+2020,10 July,Enforcement Returns,Interior,480
+2020,10 July,Removals,Border,4530
+2020,10 July,Removals,Interior,3160
+2020,10 July,Title 42 Expulsions,Border,37160
+2020,11 August,Administrative Returns,Border,8470
+2020,11 August,Enforcement Returns,Border,1800
+2020,11 August,Enforcement Returns,Interior,440
+2020,11 August,Removals,Border,4890
+2020,11 August,Removals,Interior,3440
+2020,11 August,Title 42 Expulsions,Border,45070
+2020,12 September,Administrative Returns,Border,8500
+2020,12 September,Enforcement Returns,Border,1880
+2020,12 September,Enforcement Returns,Interior,440
+2020,12 September,Removals,Border,5050
+2020,12 September,Removals,Interior,3690
+2020,12 September,Title 42 Expulsions,Border,50950
+2021,01 October,Administrative Returns,Border,10330
+2021,01 October,Enforcement Returns,Border,2070
+2021,01 October,Enforcement Returns,Interior,720
+2021,01 October,Removals,Border,6800
+2021,01 October,Removals,Interior,5420
+2021,01 October,Title 42 Expulsions,Border,65800
+2021,02 November,Administrative Returns,Border,10570
+2021,02 November,Enforcement Returns,Border,2510
+2021,02 November,Enforcement Returns,Interior,530
+2021,02 November,Removals,Border,4830
+2021,02 November,Removals,Interior,3280
+2021,02 November,Title 42 Expulsions,Border,63810
+2021,03 December,Administrative Returns,Border,10080
+2021,03 December,Enforcement Returns,Border,3440
+2021,03 December,Enforcement Returns,Interior,510
+2021,03 December,Removals,Border,4680
+2021,03 December,Removals,Interior,3080
+2021,03 December,Title 42 Expulsions,Border,63120
+2021,04 January,Administrative Returns,Border,10560
+2021,04 January,Enforcement Returns,Border,3530
+2021,04 January,Enforcement Returns,Interior,410
+2021,04 January,Removals,Border,5070
+2021,04 January,Removals,Interior,2970
+2021,04 January,Title 42 Expulsions,Border,64780
+2021,05 February,Administrative Returns,Border,8490
+2021,05 February,Enforcement Returns,Border,3450
+2021,05 February,Enforcement Returns,Interior,150
+2021,05 February,Removals,Border,3710
+2021,05 February,Removals,Interior,1640
+2021,05 February,Title 42 Expulsions,Border,74560
+2021,06 March,Administrative Returns,Border,10660
+2021,06 March,Enforcement Returns,Border,4380
+2021,06 March,Enforcement Returns,Interior,170
+2021,06 March,Removals,Border,4290
+2021,06 March,Removals,Interior,1940
+2021,06 March,Title 42 Expulsions,Border,109620
+2021,07 April,Administrative Returns,Border,10990
+2021,07 April,Enforcement Returns,Border,4150
+2021,07 April,Enforcement Returns,Interior,130
+2021,07 April,Removals,Border,4320
+2021,07 April,Removals,Interior,1770
+2021,07 April,Title 42 Expulsions,Border,112900
+2021,08 May,Administrative Returns,Border,10820
+2021,08 May,Enforcement Returns,Border,4490
+2021,08 May,Enforcement Returns,Interior,110
+2021,08 May,Removals,Border,4560
+2021,08 May,Removals,Interior,1670
+2021,08 May,Title 42 Expulsions,Border,113790
+2021,09 June,Administrative Returns,Border,11130
+2021,09 June,Enforcement Returns,Border,4510
+2021,09 June,Enforcement Returns,Interior,130
+2021,09 June,Removals,Border,4500
+2021,09 June,Removals,Interior,1700
+2021,09 June,Title 42 Expulsions,Border,105450
+2021,10 July,Administrative Returns,Border,11840
+2021,10 July,Enforcement Returns,Border,4640
+2021,10 July,Enforcement Returns,Interior,100
+2021,10 July,Removals,Border,4900
+2021,10 July,Removals,Interior,1630
+2021,10 July,Title 42 Expulsions,Border,97020
+2021,11 August,Administrative Returns,Border,10940
+2021,11 August,Enforcement Returns,Border,4620
+2021,11 August,Enforcement Returns,Interior,90
+2021,11 August,Removals,Border,4800
+2021,11 August,Removals,Interior,1600
+2021,11 August,Title 42 Expulsions,Border,96560
+2021,12 September,Administrative Returns,Border,11940
+2021,12 September,Enforcement Returns,Border,4730
+2021,12 September,Enforcement Returns,Interior,130
+2021,12 September,Removals,Border,4270
+2021,12 September,Removals,Interior,1700
+2021,12 September,Title 42 Expulsions,Border,103670
+2022,01 October,Administrative Returns,Border,12760
+2022,01 October,Enforcement Returns,Border,5310
+2022,01 October,Enforcement Returns,Interior,260
+2022,01 October,Removals,Border,4850
+2022,01 October,Removals,Interior,1740
+2022,01 October,Title 42 Expulsions,Border,95450
+2022,02 November,Administrative Returns,Border,15510
+2022,02 November,Enforcement Returns,Border,6220
+2022,02 November,Enforcement Returns,Interior,160
+2022,02 November,Removals,Border,4700
+2022,02 November,Removals,Interior,1760
+2022,02 November,Title 42 Expulsions,Border,90990
+2022,03 December,Administrative Returns,Border,15450
+2022,03 December,Enforcement Returns,Border,5920
+2022,03 December,Enforcement Returns,Interior,110
+2022,03 December,Removals,Border,4330
+2022,03 December,Removals,Interior,1670
+2022,03 December,Title 42 Expulsions,Border,83360
+2022,04 January,Administrative Returns,Border,15870
+2022,04 January,Enforcement Returns,Border,5860
+2022,04 January,Enforcement Returns,Interior,100
+2022,04 January,Removals,Border,4380
+2022,04 January,Removals,Interior,1490
+2022,04 January,Title 42 Expulsions,Border,80880
+2022,05 February,Administrative Returns,Border,14130
+2022,05 February,Enforcement Returns,Border,6440
+2022,05 February,Enforcement Returns,Interior,110
+2022,05 February,Removals,Border,5170
+2022,05 February,Removals,Interior,1790
+2022,05 February,Title 42 Expulsions,Border,94470
+2022,06 March,Administrative Returns,Border,15340
+2022,06 March,Enforcement Returns,Border,7720
+2022,06 March,Enforcement Returns,Interior,200
+2022,06 March,Removals,Border,7830
+2022,06 March,Removals,Interior,2320
+2022,06 March,Title 42 Expulsions,Border,113670
+2022,07 April,Administrative Returns,Border,14470
+2022,07 April,Enforcement Returns,Border,7580
+2022,07 April,Enforcement Returns,Interior,320
+2022,07 April,Removals,Border,8120
+2022,07 April,Removals,Interior,2180
+2022,07 April,Title 42 Expulsions,Border,102270
+2022,08 May,Administrative Returns,Border,14710
+2022,08 May,Enforcement Returns,Border,7100
+2022,08 May,Enforcement Returns,Interior,330
+2022,08 May,Removals,Border,8710
+2022,08 May,Removals,Interior,2090
+2022,08 May,Title 42 Expulsions,Border,108080
+2022,09 June,Administrative Returns,Border,14950
+2022,09 June,Enforcement Returns,Border,6470
+2022,09 June,Enforcement Returns,Interior,150
+2022,09 June,Removals,Border,7460
+2022,09 June,Removals,Interior,2440
+2022,09 June,Title 42 Expulsions,Border,97520
+2022,10 July,Administrative Returns,Border,13500
+2022,10 July,Enforcement Returns,Border,6320
+2022,10 July,Enforcement Returns,Interior,240
+2022,10 July,Removals,Border,7120
+2022,10 July,Removals,Interior,2410
+2022,10 July,Title 42 Expulsions,Border,81040
+2022,11 August,Administrative Returns,Border,17420
+2022,11 August,Enforcement Returns,Border,6600
+2022,11 August,Enforcement Returns,Interior,370
+2022,11 August,Removals,Border,7260
+2022,11 August,Removals,Interior,2750
+2022,11 August,Title 42 Expulsions,Border,78780
+2022,12 September,Administrative Returns,Border,16150
+2022,12 September,Enforcement Returns,Border,6690
+2022,12 September,Enforcement Returns,Interior,410
+2022,12 September,Removals,Border,7360
+2022,12 September,Removals,Interior,2840
+2022,12 September,Title 42 Expulsions,Border,77460
+2023,01 October,Administrative Returns,Border,16270
+2023,01 October,Enforcement Returns,Border,9480
+2023,01 October,Enforcement Returns,Interior,500
+2023,01 October,Removals,Border,8270
+2023,01 October,Removals,Interior,2930
+2023,01 October,Title 42 Expulsions,Border,85100
+2023,02 November,Administrative Returns,Border,15540
+2023,02 November,Enforcement Returns,Border,8180
+2023,02 November,Enforcement Returns,Interior,490
+2023,02 November,Removals,Border,7590
+2023,02 November,Removals,Interior,2860
+2023,02 November,Title 42 Expulsions,Border,73440
+2023,03 December,Administrative Returns,Border,15750
+2023,03 December,Enforcement Returns,Border,13600
+2023,03 December,Enforcement Returns,Interior,390
+2023,03 December,Removals,Border,6410
+2023,03 December,Removals,Interior,2720
+2023,03 December,Title 42 Expulsions,Border,55420
+2023,04 January,Administrative Returns,Border,14590
+2023,04 January,Enforcement Returns,Border,14930
+2023,04 January,Enforcement Returns,Interior,350
+2023,04 January,Removals,Border,7140
+2023,04 January,Removals,Interior,2800
+2023,04 January,Title 42 Expulsions,Border,70050
+2023,05 February,Administrative Returns,Border,12070
+2023,05 February,Enforcement Returns,Border,11280
+2023,05 February,Enforcement Returns,Interior,370
+2023,05 February,Removals,Border,7720
+2023,05 February,Removals,Interior,2960
+2023,05 February,Title 42 Expulsions,Border,80130
+2023,06 March,Administrative Returns,Border,12430
+2023,06 March,Enforcement Returns,Border,13750
+2023,06 March,Enforcement Returns,Interior,560
+2023,06 March,Removals,Border,8760
+2023,06 March,Removals,Interior,3750
+2023,06 March,Title 42 Expulsions,Border,95000
+2023,07 April,Administrative Returns,Border,10800
+2023,07 April,Enforcement Returns,Border,15120
+2023,07 April,Enforcement Returns,Interior,470
+2023,07 April,Removals,Border,8710
+2023,07 April,Removals,Interior,3440
+2023,07 April,Title 42 Expulsions,Border,87210
+2023,08 May,Administrative Returns,Border,11310
+2023,08 May,Enforcement Returns,Border,35340
+2023,08 May,Enforcement Returns,Interior,540
+2023,08 May,Removals,Border,12880
+2023,08 May,Removals,Interior,4060
+2023,08 May,Title 42 Expulsions,Border,32740
+2023,09 June,Administrative Returns,Border,10880
+2023,09 June,Enforcement Returns,Border,40160
+2023,09 June,Enforcement Returns,Interior,420
+2023,09 June,Removals,Border,17280
+2023,09 June,Removals,Interior,3690
+2023,10 July,Administrative Returns,Border,11650
+2023,10 July,Enforcement Returns,Border,40020
+2023,10 July,Enforcement Returns,Interior,340
+2023,10 July,Removals,Border,16270
+2023,10 July,Removals,Interior,3200
+2023,11 August,Administrative Returns,Border,12120
+2023,11 August,Enforcement Returns,Border,43870
+2023,11 August,Enforcement Returns,Interior,350
+2023,11 August,Removals,Border,21840
+2023,11 August,Removals,Interior,3910
+2023,12 September,Administrative Returns,Border,11060
+2023,12 September,Enforcement Returns,Border,37990
+2023,12 September,Enforcement Returns,Interior,310
+2023,12 September,Removals,Border,15500
+2023,12 September,Removals,Interior,2860
+2024,01 October,Administrative Returns,Border,9410
+2024,01 October,Enforcement Returns,Border,37450
+2024,01 October,Enforcement Returns,Interior,360
+2024,01 October,Removals,Border,24310
+2024,01 October,Removals,Interior,3600
+2024,02 November,Administrative Returns,Border,8490
+2024,02 November,Enforcement Returns,Border,34430
+2024,02 November,Enforcement Returns,Interior,330
+2024,02 November,Removals,Border,23830
+2024,02 November,Removals,Interior,3170
+2024,03 December,Administrative Returns,Border,8420
+2024,03 December,Enforcement Returns,Border,32040
+2024,03 December,Enforcement Returns,Interior,290
+2024,03 December,Removals,Border,21720
+2024,03 December,Removals,Interior,3010
+2024,04 January,Administrative Returns,Border,8720
+2024,04 January,Enforcement Returns,Border,31800
+2024,04 January,Enforcement Returns,Interior,280
+2024,04 January,Removals,Border,25350
+2024,04 January,Removals,Interior,3450
+2024,05 February,Administrative Returns,Border,6970
+2024,05 February,Enforcement Returns,Border,34430
+2024,05 February,Enforcement Returns,Interior,300
+2024,05 February,Removals,Border,24750
+2024,05 February,Removals,Interior,3430
+2024,06 March,Administrative Returns,Border,7390
+2024,06 March,Enforcement Returns,Border,36490
+2024,06 March,Enforcement Returns,Interior,360
+2024,06 March,Removals,Border,26410
+2024,06 March,Removals,Interior,3710
+2024,07 April,Administrative Returns,Border,7110
+2024,07 April,Enforcement Returns,Border,34130
+2024,07 April,Enforcement Returns,Interior,360
+2024,07 April,Removals,Border,26360
+2024,07 April,Removals,Interior,3980
+2024,08 May,Administrative Returns,Border,7090
+2024,08 May,Enforcement Returns,Border,29540
+2024,08 May,Enforcement Returns,Interior,340
+2024,08 May,Removals,Border,28170
+2024,08 May,Removals,Interior,4080
+2024,09 June,Administrative Returns,Border,6830
+2024,09 June,Enforcement Returns,Border,21520
+2024,09 June,Enforcement Returns,Interior,290
+2024,09 June,Removals,Border,23460
+2024,09 June,Removals,Interior,3570
+2024,10 July,Administrative Returns,Border,7000
+2024,10 July,Enforcement Returns,Border,19070
+2024,10 July,Enforcement Returns,Interior,360
+2024,10 July,Removals,Border,23690
+2024,10 July,Removals,Interior,4000
+2024,11 August,Administrative Returns,Border,7740
+2024,11 August,Enforcement Returns,Border,21410
+2024,11 August,Enforcement Returns,Interior,360
+2024,11 August,Removals,Border,20930
+2024,11 August,Removals,Interior,4020
+2024,12 September,Administrative Returns,Border,7120
+2024,12 September,Enforcement Returns,Border,19080
+2024,12 September,Enforcement Returns,Interior,270
+2024,12 September,Removals,Border,17210
+2024,12 September,Removals,Interior,3810
+2025,01 October,Administrative Returns,Border,7230
+2025,01 October,Enforcement Returns,Border,18600
+2025,01 October,Enforcement Returns,Interior,370
+2025,01 October,Removals,Border,31640
+2025,01 October,Removals,Interior,4200
+2025,02 November,Administrative Returns,Border,7080
+2025,02 November,Enforcement Returns,Border,15740
+2025,02 November,Enforcement Returns,Interior,360
+2025,02 November,Removals,Border,21990
+2025,02 November,Removals,Interior,3810

@@ -1,0 +1,17 @@
+source,year,estimate_millions,method,url
+Pew Research Center,1990.0,3.5,Residual (Census/ACS/CPS); includes some with temporary protection,https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+Pew Research Center,1995.0,5.7,Residual (Census/ACS/CPS); includes some with temporary protection,https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+Pew Research Center,2000.0,8.6,Residual (Census/ACS/CPS); includes some with temporary protection,https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+Pew Research Center,2007.0,12.2,same (previous peak),https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+Pew Research Center,2015.0,11.0,same (previous peak),https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+Pew Research Center,2019.0,10.2,same (previous peak),https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+Pew Research Center,2021.0,10.5,same (previous peak),https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+Pew Research Center,2022.0,11.8,same (previous peak),https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+Pew Research Center,2023.0,14.0,same; about 6.0M of these had some protection from deportation,https://www.pewresearch.org/race-and-ethnicity/2025/08/21/u-s-unauthorized-immigrant-population-reached-a-record-14-million-in-2023/
+DHS OHSS,2022.0,11.0,"Residual (ACS minus legal residents from DHS records); January 1, 2022 (10.99M)",https://ohss.dhs.gov/topics/immigration/illegal/population-estimates
+Migration Policy Institute,2023.0,13.7,"Residual (ACS/SIPP imputation); includes DACA, TPS, parole, pending asylum; mid-2023",https://www.migrationpolicy.org/news/unauthorized-immigrant-population-mid-2023
+Center for Migration Studies,2023.0,11.7,"CPS-based provisional estimate, July 2023",https://cmsny.org/us-undocumented-population-increased-in-july-2023-warren-090624/
+Center for Immigration Studies,2025.0,15.8,CPS residual with undercount adjustment; January 2025 peak,https://cis.org/Richwine/Illegal-Immigrant-Population-Was-About-135-Million-July-2026
+Center for Immigration Studies,2026.5,13.5,Same; July 2026,https://cis.org/Richwine/Illegal-Immigrant-Population-Was-About-135-Million-July-2026
+FAIR,2025.0,18.6,"Adds encounters, gotaways and an assumed undercount; start of 2025",https://www.fairus.org/press-releases/fair-illegal-alien-population-united-states-has-now-reached-all-time-high-186
+"Yale/MIT (Fazel-Zarandi et al., PLOS ONE)",2016.0,22.1,Demographic flow model; 95% range 16.2-29.5M,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0201193

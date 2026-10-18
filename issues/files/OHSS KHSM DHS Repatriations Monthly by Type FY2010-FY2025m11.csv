@@ -1,0 +1,586 @@
+Fiscal Year,Month,Repatriation Type,Quantity
+2010,01 October,Administrative Returns,5830
+2010,01 October,Enforcement Returns,39540
+2010,01 October,Removals,33830
+2010,02 November,Administrative Returns,5240
+2010,02 November,Enforcement Returns,31720
+2010,02 November,Removals,32730
+2010,03 December,Administrative Returns,4950
+2010,03 December,Enforcement Returns,26320
+2010,03 December,Removals,32290
+2010,04 January,Administrative Returns,5130
+2010,04 January,Enforcement Returns,32140
+2010,04 January,Removals,31930
+2010,05 February,Administrative Returns,5000
+2010,05 February,Enforcement Returns,37920
+2010,05 February,Removals,32830
+2010,06 March,Administrative Returns,4680
+2010,06 March,Enforcement Returns,55440
+2010,06 March,Removals,42520
+2010,07 April,Administrative Returns,5000
+2010,07 April,Enforcement Returns,50020
+2010,07 April,Removals,41000
+2010,08 May,Administrative Returns,4990
+2010,08 May,Enforcement Returns,41370
+2010,08 May,Removals,34530
+2010,09 June,Administrative Returns,5000
+2010,09 June,Enforcement Returns,36600
+2010,09 June,Removals,35350
+2010,10 July,Administrative Returns,5050
+2010,10 July,Enforcement Returns,31560
+2010,10 July,Removals,32670
+2010,11 August,Administrative Returns,5490
+2010,11 August,Enforcement Returns,29100
+2010,11 August,Removals,41110
+2010,12 September,Administrative Returns,5540
+2010,12 September,Enforcement Returns,25430
+2010,12 September,Removals,41310
+2011,01 October,Administrative Returns,5870
+2011,01 October,Enforcement Returns,22280
+2011,01 October,Removals,27860
+2011,02 November,Administrative Returns,6050
+2011,02 November,Enforcement Returns,19530
+2011,02 November,Removals,27840
+2011,03 December,Administrative Returns,5720
+2011,03 December,Enforcement Returns,18890
+2011,03 December,Removals,27940
+2011,04 January,Administrative Returns,5070
+2011,04 January,Enforcement Returns,21610
+2011,04 January,Removals,29630
+2011,05 February,Administrative Returns,4980
+2011,05 February,Enforcement Returns,23040
+2011,05 February,Removals,29590
+2011,06 March,Administrative Returns,5490
+2011,06 March,Enforcement Returns,33370
+2011,06 March,Removals,36930
+2011,07 April,Administrative Returns,5900
+2011,07 April,Enforcement Returns,28440
+2011,07 April,Removals,33790
+2011,08 May,Administrative Returns,4600
+2011,08 May,Enforcement Returns,20780
+2011,08 May,Removals,37320
+2011,09 June,Administrative Returns,4830
+2011,09 June,Enforcement Returns,18620
+2011,09 June,Removals,35180
+2011,10 July,Administrative Returns,4500
+2011,10 July,Enforcement Returns,18360
+2011,10 July,Removals,31540
+2011,11 August,Administrative Returns,4670
+2011,11 August,Enforcement Returns,18930
+2011,11 August,Removals,35060
+2011,12 September,Administrative Returns,3230
+2011,12 September,Enforcement Returns,17840
+2011,12 September,Removals,37570
+2012,01 October,Administrative Returns,3320
+2012,01 October,Enforcement Returns,15000
+2012,01 October,Removals,28480
+2012,02 November,Administrative Returns,4060
+2012,02 November,Enforcement Returns,14640
+2012,02 November,Removals,30280
+2012,03 December,Administrative Returns,4220
+2012,03 December,Enforcement Returns,13500
+2012,03 December,Removals,29430
+2012,04 January,Administrative Returns,3760
+2012,04 January,Enforcement Returns,14020
+2012,04 January,Removals,30830
+2012,05 February,Administrative Returns,4470
+2012,05 February,Enforcement Returns,14010
+2012,05 February,Removals,33930
+2012,06 March,Administrative Returns,4420
+2012,06 March,Enforcement Returns,20540
+2012,06 March,Removals,37330
+2012,07 April,Administrative Returns,3960
+2012,07 April,Enforcement Returns,17910
+2012,07 April,Removals,40580
+2012,08 May,Administrative Returns,4440
+2012,08 May,Enforcement Returns,17130
+2012,08 May,Removals,40210
+2012,09 June,Administrative Returns,3820
+2012,09 June,Enforcement Returns,14910
+2012,09 June,Removals,39230
+2012,10 July,Administrative Returns,4010
+2012,10 July,Enforcement Returns,14050
+2012,10 July,Removals,33990
+2012,11 August,Administrative Returns,3500
+2012,11 August,Enforcement Returns,14470
+2012,11 August,Removals,36040
+2012,12 September,Administrative Returns,3400
+2012,12 September,Enforcement Returns,13370
+2012,12 September,Removals,36290
+2013,01 October,Administrative Returns,4340
+2013,01 October,Enforcement Returns,12050
+2013,01 October,Removals,30170
+2013,02 November,Administrative Returns,3950
+2013,02 November,Enforcement Returns,11370
+2013,02 November,Removals,31010
+2013,03 December,Administrative Returns,3650
+2013,03 December,Enforcement Returns,10990
+2013,03 December,Removals,26970
+2013,04 January,Administrative Returns,3670
+2013,04 January,Enforcement Returns,11560
+2013,04 January,Removals,33950
+2013,05 February,Administrative Returns,4120
+2013,05 February,Enforcement Returns,11100
+2013,05 February,Removals,33970
+2013,06 March,Administrative Returns,4620
+2013,06 March,Enforcement Returns,13200
+2013,06 March,Removals,37100
+2013,07 April,Administrative Returns,3420
+2013,07 April,Enforcement Returns,12080
+2013,07 April,Removals,41990
+2013,08 May,Administrative Returns,3280
+2013,08 May,Enforcement Returns,11030
+2013,08 May,Removals,44560
+2013,09 June,Administrative Returns,3000
+2013,09 June,Enforcement Returns,10160
+2013,09 June,Removals,41640
+2013,10 July,Administrative Returns,3380
+2013,10 July,Enforcement Returns,10350
+2013,10 July,Removals,36730
+2013,11 August,Administrative Returns,3530
+2013,11 August,Enforcement Returns,10500
+2013,11 August,Removals,35390
+2013,12 September,Administrative Returns,3740
+2013,12 September,Enforcement Returns,9860
+2013,12 September,Removals,39580
+2014,01 October,Administrative Returns,3510
+2014,01 October,Enforcement Returns,9890
+2014,01 October,Removals,37370
+2014,02 November,Administrative Returns,2930
+2014,02 November,Enforcement Returns,9140
+2014,02 November,Removals,31940
+2014,03 December,Administrative Returns,3020
+2014,03 December,Enforcement Returns,8870
+2014,03 December,Removals,29350
+2014,04 January,Administrative Returns,3550
+2014,04 January,Enforcement Returns,8750
+2014,04 January,Removals,30070
+2014,05 February,Administrative Returns,3910
+2014,05 February,Enforcement Returns,8140
+2014,05 February,Removals,33560
+2014,06 March,Administrative Returns,4190
+2014,06 March,Enforcement Returns,10780
+2014,06 March,Removals,39460
+2014,07 April,Administrative Returns,6750
+2014,07 April,Enforcement Returns,9910
+2014,07 April,Removals,39640
+2014,08 May,Administrative Returns,4320
+2014,08 May,Enforcement Returns,11890
+2014,08 May,Removals,37490
+2014,09 June,Administrative Returns,3520
+2014,09 June,Enforcement Returns,12930
+2014,09 June,Removals,30260
+2014,10 July,Administrative Returns,3560
+2014,10 July,Enforcement Returns,10610
+2014,10 July,Removals,34930
+2014,11 August,Administrative Returns,2850
+2014,11 August,Enforcement Returns,9350
+2014,11 August,Removals,31820
+2014,12 September,Administrative Returns,3570
+2014,12 September,Enforcement Returns,7630
+2014,12 September,Removals,28810
+2015,01 October,Administrative Returns,4070
+2015,01 October,Enforcement Returns,8470
+2015,01 October,Removals,33510
+2015,02 November,Administrative Returns,3180
+2015,02 November,Enforcement Returns,7510
+2015,02 November,Removals,26300
+2015,03 December,Administrative Returns,3840
+2015,03 December,Enforcement Returns,7350
+2015,03 December,Removals,25340
+2015,04 January,Administrative Returns,3870
+2015,04 January,Enforcement Returns,6660
+2015,04 January,Removals,25200
+2015,05 February,Administrative Returns,3870
+2015,05 February,Enforcement Returns,6010
+2015,05 February,Removals,24550
+2015,06 March,Administrative Returns,3850
+2015,06 March,Enforcement Returns,7200
+2015,06 March,Removals,28580
+2015,07 April,Administrative Returns,3700
+2015,07 April,Enforcement Returns,6840
+2015,07 April,Removals,28790
+2015,08 May,Administrative Returns,3730
+2015,08 May,Enforcement Returns,7140
+2015,08 May,Removals,28200
+2015,09 June,Administrative Returns,2900
+2015,09 June,Enforcement Returns,6880
+2015,09 June,Removals,26930
+2015,10 July,Administrative Returns,3130
+2015,10 July,Enforcement Returns,7560
+2015,10 July,Removals,26960
+2015,11 August,Administrative Returns,2980
+2015,11 August,Enforcement Returns,7750
+2015,11 August,Removals,24650
+2015,12 September,Administrative Returns,4140
+2015,12 September,Enforcement Returns,6970
+2015,12 September,Removals,24650
+2016,01 October,Administrative Returns,3690
+2016,01 October,Enforcement Returns,6170
+2016,01 October,Removals,29620
+2016,02 November,Administrative Returns,2440
+2016,02 November,Enforcement Returns,5980
+2016,02 November,Removals,25850
+2016,03 December,Administrative Returns,2900
+2016,03 December,Enforcement Returns,6640
+2016,03 December,Removals,26450
+2016,04 January,Administrative Returns,3050
+2016,04 January,Enforcement Returns,6440
+2016,04 January,Removals,23670
+2016,05 February,Administrative Returns,2860
+2016,05 February,Enforcement Returns,5950
+2016,05 February,Removals,24920
+2016,06 March,Administrative Returns,2580
+2016,06 March,Enforcement Returns,6440
+2016,06 March,Removals,29790
+2016,07 April,Administrative Returns,2420
+2016,07 April,Enforcement Returns,6340
+2016,07 April,Removals,31490
+2016,08 May,Administrative Returns,2410
+2016,08 May,Enforcement Returns,6300
+2016,08 May,Removals,31780
+2016,09 June,Administrative Returns,2460
+2016,09 June,Enforcement Returns,6390
+2016,09 June,Removals,29260
+2016,10 July,Administrative Returns,2030
+2016,10 July,Enforcement Returns,6240
+2016,10 July,Removals,25670
+2016,11 August,Administrative Returns,2510
+2016,11 August,Enforcement Returns,6770
+2016,11 August,Removals,27380
+2016,12 September,Administrative Returns,990
+2016,12 September,Enforcement Returns,6460
+2016,12 September,Removals,25650
+2017,01 October,Administrative Returns,1480
+2017,01 October,Enforcement Returns,8200
+2017,01 October,Removals,32050
+2017,02 November,Administrative Returns,1290
+2017,02 November,Enforcement Returns,7090
+2017,02 November,Removals,30660
+2017,03 December,Administrative Returns,1130
+2017,03 December,Enforcement Returns,6790
+2017,03 December,Removals,26430
+2017,04 January,Administrative Returns,1310
+2017,04 January,Enforcement Returns,7260
+2017,04 January,Removals,24600
+2017,05 February,Administrative Returns,1170
+2017,05 February,Enforcement Returns,5820
+2017,05 February,Removals,22400
+2017,06 March,Administrative Returns,1490
+2017,06 March,Enforcement Returns,6310
+2017,06 March,Removals,23710
+2017,07 April,Administrative Returns,1330
+2017,07 April,Enforcement Returns,6460
+2017,07 April,Removals,19300
+2017,08 May,Administrative Returns,1380
+2017,08 May,Enforcement Returns,6870
+2017,08 May,Removals,21240
+2017,09 June,Administrative Returns,1300
+2017,09 June,Enforcement Returns,7360
+2017,09 June,Removals,21430
+2017,10 July,Administrative Returns,1240
+2017,10 July,Enforcement Returns,7670
+2017,10 July,Removals,20040
+2017,11 August,Administrative Returns,890
+2017,11 August,Enforcement Returns,8510
+2017,11 August,Removals,22960
+2017,12 September,Administrative Returns,1050
+2017,12 September,Enforcement Returns,7290
+2017,12 September,Removals,21850
+2018,01 October,Administrative Returns,5510
+2018,01 October,Enforcement Returns,7970
+2018,01 October,Removals,25680
+2018,02 November,Administrative Returns,5030
+2018,02 November,Enforcement Returns,7420
+2018,02 November,Removals,26050
+2018,03 December,Administrative Returns,5080
+2018,03 December,Enforcement Returns,7450
+2018,03 December,Removals,24440
+2018,04 January,Administrative Returns,4670
+2018,04 January,Enforcement Returns,7860
+2018,04 January,Removals,24810
+2018,05 February,Administrative Returns,5570
+2018,05 February,Enforcement Returns,7820
+2018,05 February,Removals,26280
+2018,06 March,Administrative Returns,5940
+2018,06 March,Enforcement Returns,8790
+2018,06 March,Removals,32090
+2018,07 April,Administrative Returns,5770
+2018,07 April,Enforcement Returns,7570
+2018,07 April,Removals,31760
+2018,08 May,Administrative Returns,5450
+2018,08 May,Enforcement Returns,7840
+2018,08 May,Removals,31290
+2018,09 June,Administrative Returns,5840
+2018,09 June,Enforcement Returns,7540
+2018,09 June,Removals,26300
+2018,10 July,Administrative Returns,8630
+2018,10 July,Enforcement Returns,5090
+2018,10 July,Removals,25200
+2018,11 August,Administrative Returns,7930
+2018,11 August,Enforcement Returns,6070
+2018,11 August,Removals,28490
+2018,12 September,Administrative Returns,7350
+2018,12 September,Enforcement Returns,5750
+2018,12 September,Removals,24860
+2019,01 October,Administrative Returns,7860
+2019,01 October,Enforcement Returns,6480
+2019,01 October,Removals,30210
+2019,02 November,Administrative Returns,7080
+2019,02 November,Enforcement Returns,5770
+2019,02 November,Removals,27160
+2019,03 December,Administrative Returns,7290
+2019,03 December,Enforcement Returns,5840
+2019,03 December,Removals,24500
+2019,04 January,Administrative Returns,7940
+2019,04 January,Enforcement Returns,5610
+2019,04 January,Removals,25120
+2019,05 February,Administrative Returns,7010
+2019,05 February,Enforcement Returns,5670
+2019,05 February,Removals,26710
+2019,06 March,Administrative Returns,7370
+2019,06 March,Enforcement Returns,6720
+2019,06 March,Removals,32870
+2019,07 April,Administrative Returns,7610
+2019,07 April,Enforcement Returns,7030
+2019,07 April,Removals,33250
+2019,08 May,Administrative Returns,7500
+2019,08 May,Enforcement Returns,8410
+2019,08 May,Removals,33780
+2019,09 June,Administrative Returns,7380
+2019,09 June,Enforcement Returns,8380
+2019,09 June,Removals,29030
+2019,10 July,Administrative Returns,7320
+2019,10 July,Enforcement Returns,7210
+2019,10 July,Removals,29050
+2019,11 August,Administrative Returns,7880
+2019,11 August,Enforcement Returns,7780
+2019,11 August,Removals,27540
+2019,12 September,Administrative Returns,7490
+2019,12 September,Enforcement Returns,6500
+2019,12 September,Removals,28000
+2020,01 October,Administrative Returns,8050
+2020,01 October,Enforcement Returns,7140
+2020,01 October,Removals,36180
+2020,02 November,Administrative Returns,7540
+2020,02 November,Enforcement Returns,6890
+2020,02 November,Removals,31680
+2020,03 December,Administrative Returns,7730
+2020,03 December,Enforcement Returns,7350
+2020,03 December,Removals,29840
+2020,04 January,Administrative Returns,8300
+2020,04 January,Enforcement Returns,7300
+2020,04 January,Removals,31460
+2020,05 February,Administrative Returns,10800
+2020,05 February,Enforcement Returns,6820
+2020,05 February,Removals,31110
+2020,06 March,Administrative Returns,11500
+2020,06 March,Enforcement Returns,6670
+2020,06 March,Removals,25230
+2020,06 March,Title 42 Expulsions,7170
+2020,07 April,Administrative Returns,10730
+2020,07 April,Enforcement Returns,1240
+2020,07 April,Removals,9440
+2020,07 April,Title 42 Expulsions,15540
+2020,08 May,Administrative Returns,12560
+2020,08 May,Enforcement Returns,1590
+2020,08 May,Removals,7440
+2020,08 May,Title 42 Expulsions,20960
+2020,09 June,Administrative Returns,12640
+2020,09 June,Enforcement Returns,1740
+2020,09 June,Removals,7210
+2020,09 June,Title 42 Expulsions,29940
+2020,10 July,Administrative Returns,7030
+2020,10 July,Enforcement Returns,2100
+2020,10 July,Removals,7680
+2020,10 July,Title 42 Expulsions,37160
+2020,11 August,Administrative Returns,8470
+2020,11 August,Enforcement Returns,2240
+2020,11 August,Removals,8330
+2020,11 August,Title 42 Expulsions,45070
+2020,12 September,Administrative Returns,8500
+2020,12 September,Enforcement Returns,2320
+2020,12 September,Removals,8740
+2020,12 September,Title 42 Expulsions,50950
+2021,01 October,Administrative Returns,10330
+2021,01 October,Enforcement Returns,2790
+2021,01 October,Removals,12210
+2021,01 October,Title 42 Expulsions,65800
+2021,02 November,Administrative Returns,10570
+2021,02 November,Enforcement Returns,3040
+2021,02 November,Removals,8100
+2021,02 November,Title 42 Expulsions,63810
+2021,03 December,Administrative Returns,10080
+2021,03 December,Enforcement Returns,3950
+2021,03 December,Removals,7770
+2021,03 December,Title 42 Expulsions,63120
+2021,04 January,Administrative Returns,10560
+2021,04 January,Enforcement Returns,3940
+2021,04 January,Removals,8040
+2021,04 January,Title 42 Expulsions,64780
+2021,05 February,Administrative Returns,8490
+2021,05 February,Enforcement Returns,3600
+2021,05 February,Removals,5350
+2021,05 February,Title 42 Expulsions,74560
+2021,06 March,Administrative Returns,10660
+2021,06 March,Enforcement Returns,4560
+2021,06 March,Removals,6220
+2021,06 March,Title 42 Expulsions,109620
+2021,07 April,Administrative Returns,10990
+2021,07 April,Enforcement Returns,4280
+2021,07 April,Removals,6090
+2021,07 April,Title 42 Expulsions,112900
+2021,08 May,Administrative Returns,10820
+2021,08 May,Enforcement Returns,4600
+2021,08 May,Removals,6230
+2021,08 May,Title 42 Expulsions,113790
+2021,09 June,Administrative Returns,11130
+2021,09 June,Enforcement Returns,4640
+2021,09 June,Removals,6200
+2021,09 June,Title 42 Expulsions,105450
+2021,10 July,Administrative Returns,11840
+2021,10 July,Enforcement Returns,4730
+2021,10 July,Removals,6530
+2021,10 July,Title 42 Expulsions,97020
+2021,11 August,Administrative Returns,10940
+2021,11 August,Enforcement Returns,4710
+2021,11 August,Removals,6400
+2021,11 August,Title 42 Expulsions,96560
+2021,12 September,Administrative Returns,11940
+2021,12 September,Enforcement Returns,4860
+2021,12 September,Removals,5960
+2021,12 September,Title 42 Expulsions,103670
+2022,01 October,Administrative Returns,12760
+2022,01 October,Enforcement Returns,5560
+2022,01 October,Removals,6590
+2022,01 October,Title 42 Expulsions,95450
+2022,02 November,Administrative Returns,15510
+2022,02 November,Enforcement Returns,6370
+2022,02 November,Removals,6460
+2022,02 November,Title 42 Expulsions,90990
+2022,03 December,Administrative Returns,15450
+2022,03 December,Enforcement Returns,6030
+2022,03 December,Removals,6000
+2022,03 December,Title 42 Expulsions,83360
+2022,04 January,Administrative Returns,15870
+2022,04 January,Enforcement Returns,5970
+2022,04 January,Removals,5860
+2022,04 January,Title 42 Expulsions,80880
+2022,05 February,Administrative Returns,14130
+2022,05 February,Enforcement Returns,6550
+2022,05 February,Removals,6960
+2022,05 February,Title 42 Expulsions,94470
+2022,06 March,Administrative Returns,15340
+2022,06 March,Enforcement Returns,7920
+2022,06 March,Removals,10150
+2022,06 March,Title 42 Expulsions,113670
+2022,07 April,Administrative Returns,14470
+2022,07 April,Enforcement Returns,7900
+2022,07 April,Removals,10300
+2022,07 April,Title 42 Expulsions,102270
+2022,08 May,Administrative Returns,14710
+2022,08 May,Enforcement Returns,7420
+2022,08 May,Removals,10790
+2022,08 May,Title 42 Expulsions,108080
+2022,09 June,Administrative Returns,14950
+2022,09 June,Enforcement Returns,6610
+2022,09 June,Removals,9910
+2022,09 June,Title 42 Expulsions,97520
+2022,10 July,Administrative Returns,13500
+2022,10 July,Enforcement Returns,6560
+2022,10 July,Removals,9530
+2022,10 July,Title 42 Expulsions,81040
+2022,11 August,Administrative Returns,17420
+2022,11 August,Enforcement Returns,6970
+2022,11 August,Removals,10010
+2022,11 August,Title 42 Expulsions,78780
+2022,12 September,Administrative Returns,16150
+2022,12 September,Enforcement Returns,7090
+2022,12 September,Removals,10200
+2022,12 September,Title 42 Expulsions,77460
+2023,01 October,Administrative Returns,16270
+2023,01 October,Enforcement Returns,9980
+2023,01 October,Removals,11200
+2023,01 October,Title 42 Expulsions,85100
+2023,02 November,Administrative Returns,15540
+2023,02 November,Enforcement Returns,8680
+2023,02 November,Removals,10450
+2023,02 November,Title 42 Expulsions,73440
+2023,03 December,Administrative Returns,15750
+2023,03 December,Enforcement Returns,13990
+2023,03 December,Removals,9130
+2023,03 December,Title 42 Expulsions,55420
+2023,04 January,Administrative Returns,14590
+2023,04 January,Enforcement Returns,15290
+2023,04 January,Removals,9940
+2023,04 January,Title 42 Expulsions,70050
+2023,05 February,Administrative Returns,12070
+2023,05 February,Enforcement Returns,11650
+2023,05 February,Removals,10680
+2023,05 February,Title 42 Expulsions,80130
+2023,06 March,Administrative Returns,12430
+2023,06 March,Enforcement Returns,14310
+2023,06 March,Removals,12510
+2023,06 March,Title 42 Expulsions,95000
+2023,07 April,Administrative Returns,10800
+2023,07 April,Enforcement Returns,15580
+2023,07 April,Removals,12160
+2023,07 April,Title 42 Expulsions,87210
+2023,08 May,Administrative Returns,11310
+2023,08 May,Enforcement Returns,35880
+2023,08 May,Removals,16940
+2023,08 May,Title 42 Expulsions,32740
+2023,09 June,Administrative Returns,10880
+2023,09 June,Enforcement Returns,40580
+2023,09 June,Removals,20960
+2023,10 July,Administrative Returns,11650
+2023,10 July,Enforcement Returns,40360
+2023,10 July,Removals,19470
+2023,11 August,Administrative Returns,12120
+2023,11 August,Enforcement Returns,44220
+2023,11 August,Removals,25750
+2023,12 September,Administrative Returns,11060
+2023,12 September,Enforcement Returns,38300
+2023,12 September,Removals,18360
+2024,01 October,Administrative Returns,9410
+2024,01 October,Enforcement Returns,37810
+2024,01 October,Removals,27900
+2024,02 November,Administrative Returns,8490
+2024,02 November,Enforcement Returns,34760
+2024,02 November,Removals,27000
+2024,03 December,Administrative Returns,8420
+2024,03 December,Enforcement Returns,32330
+2024,03 December,Removals,24730
+2024,04 January,Administrative Returns,8720
+2024,04 January,Enforcement Returns,32080
+2024,04 January,Removals,28790
+2024,05 February,Administrative Returns,6970
+2024,05 February,Enforcement Returns,34730
+2024,05 February,Removals,28180
+2024,06 March,Administrative Returns,7390
+2024,06 March,Enforcement Returns,36850
+2024,06 March,Removals,30120
+2024,07 April,Administrative Returns,7110
+2024,07 April,Enforcement Returns,34490
+2024,07 April,Removals,30340
+2024,08 May,Administrative Returns,7090
+2024,08 May,Enforcement Returns,29890
+2024,08 May,Removals,32240
+2024,09 June,Administrative Returns,6830
+2024,09 June,Enforcement Returns,21800
+2024,09 June,Removals,27030
+2024,10 July,Administrative Returns,7000
+2024,10 July,Enforcement Returns,19430
+2024,10 July,Removals,27690
+2024,11 August,Administrative Returns,7740
+2024,11 August,Enforcement Returns,21770
+2024,11 August,Removals,24940
+2024,12 September,Administrative Returns,7120
+2024,12 September,Enforcement Returns,19350
+2024,12 September,Removals,21020
+2025,01 October,Administrative Returns,7230
+2025,01 October,Enforcement Returns,18970
+2025,01 October,Removals,35840
+2025,02 November,Administrative Returns,7080
+2025,02 November,Enforcement Returns,16100
+2025,02 November,Removals,25800
