@@ -25,6 +25,7 @@ for i,s in enumerate(P.slides,1):
     cap=f"{f.get('Publisher','')}. {f.get('What it counts','')}".strip(". ")
     lst=secs.setdefault(key,[]);fn=f"{key}-{len(lst)+1:02d}.webp";save_img(pic.image.blob,"issues/img/"+fn)
     lst.append(figure("img/"+fn,f"{m[1]}: {title}" if key=="TVV" else title,cap,urls[:2]))
+LABELS={"Q1":"Removal Counts","Q2":"Counting Rules","Q3":"Repeat Entries","Q4":"Undocumented","Q5":"Border Arrests","Q6":"Self Departures"}
 tabs=[]
 def w(k,lab,body): open(f"issues/{k}.html","w").write(page(T,k,body));tabs.append((k,lab))
 # topical material
@@ -35,10 +36,10 @@ b=['<h2 class="desk">Topical material</h2><p>Research notes (Word document): '+"
 for q in sorted(heads):
     b.append(f'<li><a href="#{q}">{q}. {E(heads[q])}</a><ul>'+"".join(f"<li>{E(x)}</li>" for t in summ[q] for x in t.split("\n") if x.strip())+"</ul></li>")
 b.append('</ul><h2 class="desk">Data files (CSV)</h2><ul class="items">'+"".join(f"<li>{L(p)}</li>" for p in sorted(glob.glob(F+"/data/*.csv")))+"</ul>")
-w("material","Topical material","".join(b))
+w("material","Topic Notes","".join(b))
 for q in sorted(k for k in secs if k!="TVV"):
-    w(q,f"{q}{' Self-deportation' if q=='Q6' else ''}",f'<h2 class="desk">{q}. {E(heads.get(q,""))}</h2>'+"\n".join(secs[q]))
-w("TVV","TVV derived charts",'<h2 class="desk">TVV derived charts (built from primary government data)</h2>'+"\n".join(secs["TVV"]))
+    w(q,f"{q} {LABELS[q]}",f'<h2 class="desk">{q}. {E(heads.get(q,""))}</h2>'+"\n".join(secs[q]))
+w("TVV","TVV Charts",'<h2 class="desk">TVV derived charts (built from primary government data)</h2>'+"\n".join(secs["TVV"]))
 w("sources","Sources",f'<h2 class="desk">Sources ({len(allsrc)} links)</h2><ul class="src">'+"".join(f'<li><a href="{E(u)}">{E(u)}</a></li>' for u in allsrc)+"</ul>")
 tabs=[t for t in tabs if t[0]!="material"]+[t for t in tabs if t[0]=="material"];tabs=tabs[:-2]+[tabs[-1],tabs[-2]]
 index(T,tabs,"Sections",cur="deport");print({k:len(v) for k,v in secs.items()},len(allsrc))
