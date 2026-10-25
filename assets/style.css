@@ -14,6 +14,12 @@ ul.items{margin-left:24px;padding-left:1.1em}
 @media(max-width:600px){header img{height:40px}header h1{font-size:1rem}}
 figure.g{margin:0 0 28px;padding:0}figure.g figcaption{font-size:15px;margin:4px 6px}figure.g .t{font-weight:700}
 figure.g .s{font-size:14px;word-break:break-all}ul.src li{margin:4px 0;word-break:break-all}
+figure.g.w{display:grid;grid-template-columns:minmax(0,7fr) minmax(260px,3fr);gap:22px;align-items:start;margin:0 0 40px}
+figure.g.w img{width:100%;height:auto;max-width:none}
+figure.g.w figcaption{font-size:18px;line-height:1.5;margin:0}figure.g.w figcaption p{margin:0 0 12px}
+figure.g.w figcaption .t{font-weight:700;display:block;margin-bottom:8px}
+.wk{border-left:4px solid #8B0000;background:#faf3f3;padding:10px 14px;margin:0 0 24px;font-size:17px;line-height:1.5}
+@media(max-width:1100px){figure.g.w{grid-template-columns:1fr}}
 #tvvnav{position:fixed;left:0;top:0;bottom:0;width:210px;box-sizing:border-box;padding:14px 12px;background:#fff;border-right:1px solid #ddd;font-family:Arial,Helvetica,sans-serif;overflow-y:auto;z-index:20}
 #tvvnav summary{font:700 15px Arial,sans-serif;color:#8B0000;list-style:none;cursor:default;border-bottom:1px solid #8B0000;padding-bottom:6px;margin-bottom:8px}
 #tvvnav summary::-webkit-details-marker{display:none}

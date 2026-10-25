@@ -1,7 +1,8 @@
 """Builds the TechVestVentures Deportation Graphs site from focus/immigration (pptx + docx + CSVs)."""
 import os,re,sys,shutil,glob
-sys.path.insert(0,'/workspace/risk-watcher/graphs-site');os.chdir(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0,'/workspace/risk-watcher/graphs-site');sys.path.insert(0,'/workspace/risk-watcher');os.chdir(os.path.dirname(os.path.abspath(__file__)))
 from common import *
+import common,weekly_lib as WL
 from pptx import Presentation
 T="TechVestVentures Deportation Graphs";F="/workspace/risk-watcher/focus/immigration"
 P=Presentation(glob.glob(F+"/TVV Focus Immigration Graphs Collection *.pptx")[0])
@@ -40,6 +41,11 @@ w("material","Topic Notes","".join(b))
 for q in sorted(k for k in secs if k!="TVV"):
     w(q,f"{q} {LABELS[q]}",f'<h2 class="desk">{q}. {E(heads.get(q,""))}</h2>'+"\n".join(secs[q]))
 w("TVV","TVV Charts",'<h2 class="desk">TVV derived charts (built from primary government data)</h2>'+"\n".join(secs["TVV"]))
+common.CSS+=WL.GRID_CSS
+WG=WL.add_tabs("Deportation",w,E,save_img,start=7,note="Weekly Focus graphs: new charts are added each week from primary data. Each caption names its sources; numbers are not copied from third-party chart images.")
+allsrc_w=WL.sources("Deportation")
+for u in allsrc_w:
+    if u not in allsrc: allsrc.append(u)
 w("sources","Sources",f'<h2 class="desk">Sources ({len(allsrc)} links)</h2><ul class="src">'+"".join(f'<li><a href="{E(u)}">{E(u)}</a></li>' for u in allsrc)+"</ul>")
 tabs=[t for t in tabs if t[0]!="material"]+[t for t in tabs if t[0]=="material"];tabs=tabs[:-2]+[tabs[-1],tabs[-2]]
 index(T,tabs,"Sections",cur="deport");print({k:len(v) for k,v in secs.items()},len(allsrc))
