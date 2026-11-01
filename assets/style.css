@@ -19,6 +19,7 @@ figure.g.w img{width:100%;height:auto;max-width:none}
 figure.g.w figcaption{font-size:18px;line-height:1.5;margin:0}figure.g.w figcaption p{margin:0 0 12px}
 figure.g.w figcaption .t{font-weight:700;display:block;margin-bottom:8px}
 .wk{border-left:4px solid #8B0000;background:#faf3f3;padding:10px 14px;margin:0 0 24px;font-size:17px;line-height:1.5}
+figure.g.w ul{margin:0 0 12px;padding-left:1.1em;font-size:16px}figure.g.w li{margin:4px 0}figure.g.w p.nt{font-size:15px;color:#444}
 @media(max-width:1100px){figure.g.w{grid-template-columns:1fr}}
 #tvvnav{position:fixed;left:0;top:0;bottom:0;width:280px;box-sizing:border-box;padding:12px 10px;background:#000;color:#fff;border-right:1px solid #333;font-family:Arial,Helvetica,sans-serif;overflow-y:auto;z-index:20}
 #tvvnav summary{list-style:none;cursor:default;display:flex;align-items:center;gap:8px;border-bottom:1px solid #e8063c;padding-bottom:9px;margin-bottom:10px}
